@@ -3,19 +3,19 @@ In accordance with WHO’s mandate to provide guidance to Member States on healt
 The five-step pathway to advance the adoption of best clinical and data practices for immunizations is presented below.
 
 ### L1 Narrative guidelines
-In order to assist programme managers develop optimal immunization schedules WHO has compiled key information on its current routine immunization recommendations into four summary tables.
+In order to assist programme managers develop optimal immunization programmes WHO has compiled key information on its current routine immunization recommendations into four summary tables:
 
-Table 1 summarizes recommended routine immunizations for all age groups - children, adolescents, and adults. As such, it provides an overview of vaccine recommendations across the lifespan, including both primary series and booster doses.
+- _Table 1_ summarizes recommended routine immunizations for all age groups - children, adolescents, and adults. As such, it provides an overview of vaccine recommendations across the lifespan, including both primary series and booster doses.
 
-Table 2 provides detailed information for routine immunizations for children, including age at first dose and intervals. It reiterates recommendations on the primary series and booster doses.
+- _Table 2_ provides detailed information for routine immunizations for children, including age at first dose and intervals. It reiterates recommendations on the primary series and booster doses.
 
-In Table 3, WHO has consolidated its recommendations for interrupted and delayed vaccination. These irregular situations can be challenging to health workers who may not know what to do.
+- In _Table 3_, WHO has consolidated its recommendations for interrupted and delayed vaccination. These irregular situations can be challenging to health workers who may not know what to do.
 
-Table 4 summarizes WHO’s recommendations for the vaccination of health care workers.
+- _Table 4_ summarizes WHO’s recommendations for the vaccination of health care workers.
 
 It is important to note that these recommendations are only a compilation of existing WHO routine immunization recommendations in a new format. All the recommendations come from WHO Position Papers that are published in the Weekly Epidemiological Record. The tables are updated as soon as any new WHO recommendation is published.
 
-The summary tables can be accessed [here](https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables)
+The summary tables can be accessed [here](https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables).
 
 ### L2 Operational guidelines
 Digital adaptation kits are designed to facilitate the accurate reflection of WHO’s clinical, public health and data use guidelines within the digital systems countries are adopting. DAKs are operational, software-agnostic, standardized documentation that distil clinical, public health and data use guidance into a format that can be transparently incorporated into digital systems. DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health.
@@ -23,7 +23,7 @@ Digital adaptation kits are designed to facilitate the accurate reflection of WH
 The DAK for immunizations and the associated implementation tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document](coming soon)
+- [Published DAK Document] (coming soon)
 
 - [Link to core data dictionary](https://smart.who.int/dak-immz/dictionary.html)
  
