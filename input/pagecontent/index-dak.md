@@ -1,42 +1,46 @@
-<!---Note: Remove this below div element for releasing, only to maintain for main branch -->
-<div>
-<p> This DAK and set of implementation tools are still undergoing development. </p>
-<p> Content is for demonstration purposes only. </p>
-</div>{:.stu-note}
-
-
 ### Summary 
-This WHO <mark>[insert health domain here]</mark> DAK <mark>add content here</mark>
+In accordance with WHO’s mandate to provide guidance to Member States on health policy matters, the organization, through the Immunization, Vaccines and Biologicals (IVB) department, is tasked with developing evidence-based immunization policy recommendations.
+The five-step pathway to advance the adoption of best clinical and data practices for immunizations is presented below.
 
 ### L1 Narrative guidelines
-<mark>[insert content here]</mark>
+In order to assist programme managers develop optimal immunization schedules WHO has compiled key information on its current routine immunization recommendations into four summary tables.
+
+Table 1 summarizes recommended routine immunizations for all age groups - children, adolescents, and adults. As such, it provides an overview of vaccine recommendations across the lifespan, including both primary series and booster doses.
+
+Table 2 provides detailed information for routine immunizations for children, including age at first dose and intervals. It reiterates recommendations on the primary series and booster doses.
+
+In Table 3, WHO has consolidated its recommendations for interrupted and delayed vaccination. These irregular situations can be challenging to health workers who may not know what to do.
+
+Table 4 summarizes WHO’s recommendations for the vaccination of health care workers.
+
+It is important to note that these recommendations are only a compilation of existing WHO routine immunization recommendations in a new format. All the recommendations come from WHO Position Papers that are published in the Weekly Epidemiological Record. The tables are updated as soon as any new WHO recommendation is published.
+
+The summary tables can be accessed [here](https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables)
 
 ### L2 Operational guidelines
-The L2 <mark>[insert health domain here]</mark> Digital adaptation kit publications and implementations tools can be found here:
+Digital adaptation kits are designed to facilitate the accurate reflection of WHO’s clinical, public health and data use guidelines within the digital systems countries are adopting. DAKs are operational, software-agnostic, standardized documentation that distil clinical, public health and data use guidance into a format that can be transparently incorporated into digital systems. DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health.
+
+The DAK for immunizations and the associated implementation tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document]()
+- [Published DAK Document](coming soon)
 
-- [Link to core data dictionary]()
+- [Link to core data dictionary](https://smart.who.int/dak-immz/dictionary.html)
  
-- [Link to decision support logic]() 
+- [Link to decision support logic](https://smart.who.int/dak-immz/decision-logic.html) 
 
-- [Link to scheduling logic]() 
-
-- [Link to indicators table]()
+- [Link to indicators table](https://smart.who.int/dak-immz/indicators.html)
  
-- [Link to functional and non functional requirements]()
+- [Link to functional and non functional requirements](https://smart.who.int/dak-immz/system-requirements.html)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>[insert health domain here]</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the immunizations SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
 
 ### L4 Executable guidelines
-Reference implementations representing the L4 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Reference implementations representing the L4 layer for the immunizations SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
-
-### News
+Content representing the L5 layer for the immunizations SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### Contact Us
 <p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></p>
