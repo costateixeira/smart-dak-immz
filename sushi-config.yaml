@@ -49,6 +49,8 @@ pages:
       title: Decision-support logic
     indicators.md:
       title: Indicator and Performance Metrics
+    system-requirements.md:
+      title: System Requirements
     functional-requirements.md:
       title: Functional Requirements
     non-functional-requirements.md:
@@ -106,8 +108,7 @@ menu:
     Data Dictionary: dictionary.html
     Decision-support Logic: decision-logic.html
     Indicator and Performance Metrics: indicators.html
-    Functional Requirements: functional-requirements.html
-    Non-functional Requirements: non-functional-requirements.html
+    System Requirements: system-requirements.html
   Data Models and Exchange:
     System Actors: system-actors.html
     Sequence Diagrams: sequence-diagrams.html
@@ -258,3 +259,13 @@ menu:
 #   setId: always # always | standalone-only
 dependencies:
   smart.who.int.base: 0.1.0
+  
+parameters: 
+  path-pages: 
+  - input/dictionary
+  - input/decision-logic
+  - input/business-processes
+  - input/scheduling-logic
+  - input/indicators
+  - input/system-requirements
+  - input/testing
