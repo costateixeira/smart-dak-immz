@@ -7,9 +7,8 @@
 ![QA hints](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FWorldHealthOrganization.github.io%2Fsmart-dak-immunizations%2Fqa.json&query=%24.hints&logoColor=yellow&label=QA%20hints&color=yellow)
 <!--/badges-->
 
-# WHO SMART GUIDELINES - EMPTY IG
+# WHO SMART GUIDELINES - DAK IMMZ
 
-This is an empty framework, to be used to create SMART Implementation Guides.
 
 
 ## Changes and feedback
