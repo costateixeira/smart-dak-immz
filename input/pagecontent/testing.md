@@ -1,15 +1,8 @@
----
----
-{% assign igId = site.data.fhir.igId %}
-{% assign resourceKey = "ImplementationGuide/" | append: igId %}
-{% assign resource = site.data.resources[resourceKey] %}
-{% assign source = resource.source %}
-
-This page will include testing artifacts for this implementation guide.
+**This content is not yet available. The page will be updated as soon as the content is ready to be shared.**
 
 Artifacts will include Gherkin .feature files, with acceptance criteria for each test definition, and with defined test cases for PlanDefinitions and Measures. Example data will be in the form of FHIR shorthand (FSH) files or FHIR Resources, with examples listed under the example tab of the resources.
 
-See [Test Data](test-data.html) for test data. 
+Test data will be added in [Test Data](test-data.html) page. 
 
 The testing artifacts in this implementation guide are not intended to be used to determine formal conformance, nor are they intended to be authoritative or comprehensive.
 
