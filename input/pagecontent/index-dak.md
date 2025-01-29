@@ -9,7 +9,7 @@ In order to assist programme managers develop optimal immunization programmes WH
 
 - _Table 2_ provides detailed information for routine immunizations for children, including age at first dose and intervals. It reiterates recommendations on the primary series and booster doses.
 
-- In _Table 3_, WHO has consolidated its recommendations for interrupted and delayed vaccination. These irregular situations can be challenging to health workers who may not know what to do.
+- _Table 3_ has consolidated recommendations for interrupted and delayed vaccination. These irregular situations can be challenging to health workers who may not know what to do.
 
 - _Table 4_ summarizes WHO’s recommendations for the vaccination of health care workers.
 
@@ -23,15 +23,16 @@ Digital adaptation kits are designed to facilitate the accurate reflection of WH
 The DAK for immunizations and the associated implementation tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document] (coming soon)
+- [Published DAK Document](https://iris.who.int/handle/10665/380303)
 
-- [Link to core data dictionary](https://smart.who.int/dak-immz/dictionary.html)
+- Implementation tools:
+	- [Link to core data dictionary](https://smart.who.int/dak-immz/dictionary.html)
  
-- [Link to decision support logic](https://smart.who.int/dak-immz/decision-logic.html) 
+	- [Link to decision-support and scheduling logic](https://smart.who.int/dak-immz/decision-logic.html) 
 
-- [Link to indicators table](https://smart.who.int/dak-immz/indicators.html)
+	- [Link to indicators and performance metrics table](https://smart.who.int/dak-immz/indicators.html)
  
-- [Link to functional and non functional requirements](https://smart.who.int/dak-immz/system-requirements.html)
+	- [Link to high-level functional and non functional requirements](https://smart.who.int/dak-immz/system-requirements.html)
 
 ### L3 Machine readable guidelines
 The L3 FHIR Implementation Guide for the immunizations SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
@@ -60,4 +61,4 @@ This work is licensed under a
 
 <!-- for main branch of DAK repos only, remove while releases -->
 ### Disclaimer
-The specification herewith documented is a demo working specification and may not be used for any implementation purposes. This draft is provided without warranty of completeness or consistency and the official publication supersedes this draft. No liability can be inferred from the use or misuse of this specification or its consequences.
+Not available

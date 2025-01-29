@@ -1,4 +1,6 @@
-This page is intended to list and describe the system actors that interact with the system, derived from the business requirements defined at the operational level (L2). This content is not yet available. The page will be updated once the system actors are defined.
+**This content is not yet available. The page will be updated as soon as the content is ready to be shared.**
+
+This page is intended to list and describe the system actors that interact with the system, derived from the business requirements defined at the operational level (L2).
 
 For more details about end-users and related stakeholders, see the [Generic Personas](personas.html).
 
