@@ -3,12 +3,12 @@
     "title" : "SMART DAK IMMZ", 
     "category" : "base",
     "introduction" : "SMART DAK IMMZ",
-    "version" : "0.9.9",
-    "desc" : "0.9.9 Draft Release",
+    "version" : "1.0.0",
+    "desc" : "1.0.0 Draft Release",
     "mode" : "milestone",    
-    "path" : "http://smart.who.int/dak-immz/v0.9.9",
+    "path" : "http://smart.who.int/dak-immz/v1.0.0",
     "ci-build": "http://worldhealthorganization.github.io/smart-dak-immz",    
     "first": true,
-    "status" : "draft",
+    "status" : "active",
     "sequence" : "Releases"
   }
