@@ -9,6 +9,6 @@
     "path" : "http://smart.who.int/dak-immz/v1.0.0",
     "ci-build": "http://worldhealthorganization.github.io/smart-dak-immz",    
     "first": true,
-    "status" : "active",
+    "status" : "release",
     "sequence" : "Releases"
   }
