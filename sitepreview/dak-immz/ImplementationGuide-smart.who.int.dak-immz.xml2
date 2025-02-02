@@ -3,7 +3,7 @@
 <ImplementationGuide xmlns="http://hl7.org/fhir">
   <id value="smart.who.int.dak-immz"/>
   <meta>
-    <profile value="http://smart.who.int/smart-base/ImplementationGuide-SGImplementationGuide"/>
+    <profile value="http://smart.who.int/base/StructureDefinition/SGImplementationGuide"/>
   </meta>
   <text>
     <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><p class="res-header-id"><b>Generated Narrative: ImplementationGuide smart.who.int.dak-immz</b></p><a name="smart.who.int.dak-immz"> </a><a name="hcsmart.who.int.dak-immz"> </a><a name="smart.who.int.dak-immz-en-US"> </a><h2>DakImmz</h2><p>The official URL for this implementation guide is: </p><pre>http://smart.who.int/dak-immz/ImplementationGuide/smart.who.int.dak-immz</pre><div><p>SMART DAK for Immunizations</p>
@@ -14,7 +14,7 @@
   <name value="DakImmz"/>
   <title value="SMART DAK IMMZ"/>
   <status value="active"/>
-  <date value="2025-02-02T17:49:00+00:00"/>
+  <date value="2025-02-02T18:55:49+00:00"/>
   <publisher value="WHO"/>
   <contact>
     <name value="WHO"/>

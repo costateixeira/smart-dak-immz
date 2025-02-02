@@ -10,8 +10,8 @@
   fhir:id [ fhir:v "smart.who.int.dak-immz"] ; # 
   fhir:meta [
      fhir:profile ( [
-       fhir:v "http://smart.who.int/smart-base/ImplementationGuide-SGImplementationGuide"^^xsd:anyURI ;
-       fhir:link <http://smart.who.int/smart-base/ImplementationGuide-SGImplementationGuide>
+       fhir:v "http://smart.who.int/base/StructureDefinition/SGImplementationGuide"^^xsd:anyURI ;
+       fhir:link <http://smart.who.int/base/StructureDefinition/SGImplementationGuide>
      ] )
   ] ; # 
   fhir:text [
@@ -23,7 +23,7 @@
   fhir:name [ fhir:v "DakImmz"] ; # 
   fhir:title [ fhir:v "SMART DAK IMMZ"] ; # 
   fhir:status [ fhir:v "active"] ; # 
-  fhir:date [ fhir:v "2025-02-02T17:48:02+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2025-02-02T18:54:50+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "WHO"] ; # 
   fhir:contact ( [
      fhir:name [ fhir:v "WHO" ] ;

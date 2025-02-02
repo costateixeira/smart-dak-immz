@@ -2,7 +2,7 @@
   "resourceType" : "ImplementationGuide",
   "id" : "smart.who.int.dak-immz",
   "meta" : {
-    "profile" : ["http://smart.who.int/smart-base/ImplementationGuide-SGImplementationGuide"]
+    "profile" : ["http://smart.who.int/base/StructureDefinition/SGImplementationGuide"]
   },
   "text" : {
     "status" : "generated",
@@ -13,7 +13,7 @@
   "name" : "DakImmz",
   "title" : "SMART DAK IMMZ",
   "status" : "active",
-  "date" : "2025-02-02T17:48:02+00:00",
+  "date" : "2025-02-02T18:54:50+00:00",
   "publisher" : "WHO",
   "contact" : [{
     "name" : "WHO",
