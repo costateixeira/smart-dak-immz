@@ -9,7 +9,7 @@
 
 # WHO SMART GUIDELINES - DAK IMMZ
 
-
+CI build: https://worldhealthorganization.github.io/smart-dak-immz
 
 ## Changes and feedback
 
