@@ -18,8 +18,8 @@ publisher:
 
 meta:
   profile:
-        - http://smart.who.int/smart-base/ImplementationGuide-SGImplementationGuide
-
+        - http://smart.who.int/base/StructureDefinition/SGImplementationGuide
+        
 pages:
   index.md:
     title: Home
